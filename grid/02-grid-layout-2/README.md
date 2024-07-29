@@ -13,7 +13,7 @@ When the browser is narrow:
 ![desired outcome narrow](./desired-outcome-narrow.png)
 
 When the browser is stretched wide:
-
+ 
 ![desired outcome wide](./desired-outcome-wide.png)
 
 ### Self Check
